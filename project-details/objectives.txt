@@ -1,0 +1,8 @@
+
+
+To practice basic react concepts with class syntax in Typescript.
+
+To practice some other React concepts (like refs) with class syntax in
+Typescript.
+
+To gain some Typescript experience.
