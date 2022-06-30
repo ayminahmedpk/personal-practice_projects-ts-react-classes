@@ -1,6 +1,6 @@
 import React from "react";
 
-import Parent from "../Lessons/01-core-react-basics/02-state-props-click-change-handler/Parent";
+import Parent from "../Lessons/01-core-react-basics/03-children-outside-jsx/Parent";
 
 import './App.css';
 
