@@ -11,10 +11,20 @@ type ParentState = {
 
 export default class Parent extends Component<ParentProps, ParentState> {
 
-  state = {
-    count: 0,
-    text: '<default text>',
+  constructor(props:ParentProps) {
+    super(props)
+  
+    this.state = {
+      count: 0,
+      text: '<default text>',
+    }
   }
+  
+  // If you want to skip constructor. But construcot way is clearer.
+  // state = {
+  //   count: 0,
+  //   text: '<default text>',
+  // }
 
   incrementHandler = (event: React.MouseEvent<HTMLButtonElement>):void => {
     this.setState( (state) => ({
