@@ -1,6 +1,6 @@
 import React from "react";
 
-import Grandparent from "../Lessons/01-core-react-basics/05-multiple-context/Grandparent";
+import Parent from "../Lessons/02-other-features/01-refs/03-passing-ref/Parent";
 
 import './App.css';
 
@@ -8,7 +8,7 @@ export default class App extends React.Component {
   render() {
     return (
       <>
-        <Grandparent/>
+        <Parent/>
       </>
     )
   }

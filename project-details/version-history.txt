@@ -1,5 +1,11 @@
 
 
+0.1.7:
+  - Forwarding ref
+  - Child ref
+  - Simple ref
+
+
 0.1.6:
   - Multiple contexts
 
