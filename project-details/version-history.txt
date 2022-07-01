@@ -1,5 +1,9 @@
 
 
+0.1.6:
+  - Multiple contexts
+
+
 0.1.5:
   - Improved state example with state inside explicit constructor
 
