@@ -1,5 +1,10 @@
 
 
+0.1.10:
+  - Showing rerenders based on React Tree, not Portal-ed DOM Tree
+  - Portals
+
+
 0.1.9:
   - Lifecycle methods:
     - shouldComponentUpdate()

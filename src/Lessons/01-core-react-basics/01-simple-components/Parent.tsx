@@ -4,7 +4,7 @@ import Child from "./Child";
 
 class Parent extends React.Component {
   
-  name: string = "Parent";  // explicit type assignment
+  name: string = "Parent";  // unnecessary explicit type assignment
 
   render() {
     return (
