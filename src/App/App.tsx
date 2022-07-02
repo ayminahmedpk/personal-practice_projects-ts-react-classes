@@ -1,6 +1,6 @@
 import React from "react";
 
-import Parent from "../Lessons/02-other-features/01-refs/04-callback-ref/Parent";
+import Parent from "../Lessons/03-internals/02-should-component-update/Parent";
 
 import './App.css';
 

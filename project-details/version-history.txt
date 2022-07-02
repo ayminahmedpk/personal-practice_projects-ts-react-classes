@@ -1,5 +1,13 @@
 
 
+0.1.9:
+  - Lifecycle methods:
+    - shouldComponentUpdate()
+    - componentDidUpdate()
+    - componentWillUnmount()
+    - componentDidMount()
+
+
 0.1.8:
   - Callback ref
 
