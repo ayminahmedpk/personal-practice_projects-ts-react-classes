@@ -1,5 +1,9 @@
 
 
+0.1.11:
+  - Improved children-outside-jsx (PropsWithChildren instead of React.ReactNode)
+
+
 0.1.10:
   - Showing rerenders based on React Tree, not Portal-ed DOM Tree
   - Portals
